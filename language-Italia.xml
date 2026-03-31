@@ -1,2 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<language title="Italiano" date_format="j M Y" date_short_format="M 'y" date_short_recent_format="j M" time_format="H:i" currency_format="{symbol}{value}" week_start="1" decimal_point="," thousands_separator="." label_separator=":" comma_separator=", " ellipsis="…" parenthesis_open="(" parenthesis_close=")" language_code="it-IT" text_direction="LTR" user_selectable="1" base_version_id="2031070" export_version="2"/>
+<language title="Italiano" date_format="j M Y" date_short_format="M 'y" date_short_recent_format="j M" time_format="H:i" currency_format="{symbol}{value}" week_start="1" decimal_point="," thousands_separator="." label_separator=":" comma_separator=", " ellipsis="…" parenthesis_open="(" parenthesis_close=")" language_code="it-IT" text_direction="LTR" user_selectable="1" base_version_id="2031070" export_version="2">
+  <phrases>
+    <phrase title="1_second_ago"><![CDATA[1 secondo fa]]></phrase>
+    <phrase title="1_minute_ago"><![CDATA[1 minuto fa]]></phrase>
+    <phrase title="1_hour_ago"><![CDATA[1 ora fa]]></phrase>
+    <phrase title="1_day_ago"><![CDATA[1 giorno fa]]></phrase>
+    <phrase title="1_week_ago"><![CDATA[1 settimana fa]]></phrase>
+    <phrase title="1_month_ago"><![CDATA[1 mese fa]]></phrase>
+    <phrase title="1_year_ago"><![CDATA[1 anno fa]]></phrase>
+
+    <phrase title="x_seconds_ago"><![CDATA[{count} secondi fa]]></phrase>
+    <phrase title="x_minutes_ago"><![CDATA[{count} minuti fa]]></phrase>
+    <phrase title="x_hours_ago"><![CDATA[{count} ore fa]]></phrase>
+    <phrase title="x_days_ago"><![CDATA[{count} giorni fa]]></phrase>
+    <phrase title="x_weeks_ago"><![CDATA[{count} settimane fa]]></phrase>
+    <phrase title="x_months_ago"><![CDATA[{count} mesi fa]]></phrase>
+    <phrase title="x_years_ago"><![CDATA[{count} anni fa]]></phrase>
+
+    <phrase title="a_moment_ago"><![CDATA[un attimo fa]]></phrase>
+    <phrase title="today_at"><![CDATA[oggi alle {time}]]></phrase>
+    <phrase title="yesterday_at"><![CDATA[ieri alle {time}]]></phrase>
+    <phrase title="tomorrow_at"><![CDATA[domani alle {time}]]></phrase>
+  </phrases>
+</language>
